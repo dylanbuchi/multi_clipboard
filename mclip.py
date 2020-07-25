@@ -1,0 +1,1 @@
+# mclip.py - A multi-clipboard program.
